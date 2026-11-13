@@ -1,0 +1,1 @@
+7. SNR_dB = P_semnal_dB - P_zgomot_dB, deci P_zgomot = 90 - 80 = 10 dB.

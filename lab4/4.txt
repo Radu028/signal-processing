@@ -1,0 +1,1 @@
+4. Frecventa maxima e B = 200 Hz, deci fs > 2B = 400 Hz.
